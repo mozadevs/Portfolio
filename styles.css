@@ -454,6 +454,12 @@ h1.glitch {
     border-bottom-color: var(--green);
 }
 
+.contact-list .handle {
+    color: var(--cyan);
+    user-select: all;
+    cursor: text;
+}
+
 /* footer */
 .footer {
     position: relative;
